@@ -40,7 +40,7 @@ Eduflow is a complete educational management platform combining ERP operations w
 ---
 
 ## Dashboard Preview
-(assets/admin dashboard.png)
+assets/admin dashboard.png
 
 ---
 
