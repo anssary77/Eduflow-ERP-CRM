@@ -1,6 +1,12 @@
-# EduFlow ERP & CRM System
+# Eduflow ERP & CRM System
 
-Enterprise ERP and CRM platform designed for educational centers and language academies.
+Enterprise ERP and CRM platform designed for language academies and educational centers.
+
+---
+
+## Overview
+
+Eduflow is a complete educational management platform combining ERP operations with advanced CRM workflows. The system is designed to automate academy operations, student management, financial processes, scheduling, and sales follow-ups.
 
 ---
 
@@ -9,11 +15,15 @@ Enterprise ERP and CRM platform designed for educational centers and language ac
 - Student Management
 - CRM & Lead Tracking
 - Sales Pipeline
-- Scheduling System
 - Teacher Management
+- Scheduling System
 - Attendance Tracking
-- Installments & Finance
+- Finance & Installments
+- Notifications System
 - Reports & Analytics
+- Multi-user Roles & Permissions
+- WhatsApp Follow-up System
+- Dashboard Analytics
 
 ---
 
@@ -24,11 +34,5 @@ Enterprise ERP and CRM platform designed for educational centers and language ac
 - MySQL
 - TailwindCSS
 - REST APIs
-
----
-
-## Source Code
-
-This repository is intended for portfolio and showcase purposes only.
-
-The source code is private due to commercial and licensing considerations.
+- JavaScript
+- Alpine.js
