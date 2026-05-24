@@ -1,4 +1,4 @@
-# Academy ERP & CRM System
+# Eduflow ERP & CRM System
 
 Enterprise ERP and CRM platform designed for educational centers and language academies.
 
