@@ -36,3 +36,23 @@ Eduflow is a complete educational management platform combining ERP operations w
 - REST APIs
 - JavaScript
 - Alpine.js
+
+---
+
+## Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+## Architecture
+
+The system follows a modular monolithic architecture with separated business modules and scalable database design.
+
+---
+
+## Source Code
+
+This repository is intended for portfolio and showcase purposes only.
+
+The source code is private due to commercial and licensing considerations.
